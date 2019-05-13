@@ -5,6 +5,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build --prod",
+    "build:pages": "ng build --prod --base-href '/storeon-angular-ivy/dist/storeon-ivy-app/'",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
