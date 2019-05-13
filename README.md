@@ -8,5 +8,6 @@ Project generate with @angular/cli: `8.0.0-rc.3`
 
 [Demo dist](https://irustm.github.io/storeon-angular-ivy/dist/storeon-ivy-app/)
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/irustm/storeon-angular-ivy/master/assets/network.png" alt="screen network angular ivy with storeon" width="750">
 </p>
